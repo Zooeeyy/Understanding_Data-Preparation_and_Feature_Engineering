@@ -1,4 +1,4 @@
-# Understanding-Data/Preparation-Data and Feature Engineering
+# Study Case: Movie Analyst
 
 Understanding data can start with data preparation; here are the steps using Python and Jupiter:
 
